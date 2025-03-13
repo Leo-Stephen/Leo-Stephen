@@ -1,6 +1,6 @@
 # Hello, I'm Leo Stephen! 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo_Stephen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leostephen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Leo_Stephen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leo-stephen-maduri/)
 [![Email](https://img.shields.io/badge/Email-leostephen.maduri%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leostephen.maduri@gmail.com)
 
 ## 💻 Full Stack Developer | Microservices Architect | AI Enthusiast
