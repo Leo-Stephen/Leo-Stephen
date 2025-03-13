@@ -58,16 +58,7 @@ Computer Science student specializing in **AI and Computational Thinking** at KL
 
 ---
 
-## 🕹️ MAIN QUESTS 🕹️
-
-<div align="center">
-  <a href="https://github.com/Leo-Stephen/MediSlot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Stephen&repo=MediSlot&theme=synthwave&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&bg_color=000000" />
-  </a>
-  <a href="https://github.com/Leo-Stephen/KisanVishwa">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Leo-Stephen&repo=KisanVishwa&theme=synthwave&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&bg_color=000000" />
-  </a>
-</div>
+## ��️ MAIN QUESTS 🕹️
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
@@ -115,24 +106,29 @@ Computer Science student specializing in **AI and Computational Thinking** at KL
 ## 📊 PLAYER STATS 📊
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Stephen&show_icons=true&count_private=true&theme=synthwave&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&bg_color=000000" alt="Leo's GitHub stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Leo-Stephen&theme=black-ice&background=000000&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=00FFFF" alt="Leo's GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Stephen&layout=compact&theme=synthwave&title_color=00FFFF&text_color=00FFFF&border_color=00FFFF&bg_color=000000" alt="Top Languages" />
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Total_Commits-42+-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Total Commits" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Public_Repos-2-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Public Repos" />
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Joined_GitHub-11_months_ago-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Joined GitHub" />
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Location-India-00FFFF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=000000" alt="Location" />
+      </td>
+    </tr>
+  </table>
 </div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo-Stephen&theme=radical" alt="GitHub Contribution Graph" />
-</div>
-
----
-
-## 📈 ACTIVITY LOG 📈
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Stephen&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF" alt="Activity Graph" />
