@@ -110,28 +110,23 @@ Computer Science student specializing in **AI and Computational Thinking** at KL
 </div>
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Total_Commits-42+-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Total Commits" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Public_Repos-2-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Public Repos" />
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Joined_GitHub-11_months_ago-00FFFF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" alt="Joined GitHub" />
-      </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Location-India-00FFFF?style=for-the-badge&logo=google-maps&logoColor=white&labelColor=000000" alt="Location" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-stats.vercel.app/api?username=Leo-Stephen&show_icons=true&count_private=true&include_all_commits=true&theme=synthwave&title_color=00FFFF&text_color=00FFFF&icon_color=00FFFF&border_color=00FFFF&bg_color=000000" alt="Leo's GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leo-Stephen&layout=compact&theme=synthwave&title_color=00FFFF&text_color=00FFFF&border_color=00FFFF&bg_color=000000" alt="Top Languages" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Leo-Stephen&theme=darkhub&no-frame=true&margin-w=15&margin-h=15&column=7&row=1" alt="trophy" />
 </div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Stephen&theme=react-dark&bg_color=000000&color=00FFFF&line=00FFFF&point=FFFFFF&area=true&area_color=00FFFF" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github.com/Leo-Stephen/Leo-Stephen/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 ---
