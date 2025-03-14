@@ -1,7 +1,7 @@
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,13,30&height=180&section=header&text=LEO%20STEPHEN%20MADURI&fontSize=42&fontColor=bb86fc&animation=fadeIn&fontAlignY=32" alt="header"/>
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=bb86fc&center=true&vCenter=true&width=500&lines=LEVEL+25+DEVELOPER;FULL+STACK+WIZARD;QUEST+MASTER;PRESS+START+TO+CONTINUE..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=24&duration=3000&pause=1000&color=bb86fc&center=true&vCenter=true&width=500&lines=FULL+STACK+WIZARD;QUEST+MASTER;PRESS+START+TO+CONTINUE..." alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -85,11 +85,11 @@
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27" alt="HTML5" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27" alt="CSS3" />
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1b27" alt="Spring" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=white&labelColor=1a1b27" alt="React" />
   <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1b27" alt="Django" />
+  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1b27" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1b27" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=1a1b27" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1b27" alt="SQLite" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Git" />
   <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white&labelColor=1a1b27" alt="JWT" />
   <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b27" alt="REST API" />
@@ -156,49 +156,64 @@ def solve_problem(complexity):
   <tr>
     <td align="center" width="50%" bgcolor="#1a1b27">
       <h3>PROJECT <span style="color:#bb86fc">MEDISLOT</span></h3>
+      <img src="https://img.shields.io/badge/React_Vite-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1b27" alt="React"/>
       <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white&labelColor=1a1b27" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1b27" alt="React"/>
-      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white&labelColor=1a1b27" alt="Redis"/>
+      <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=fastify&logoColor=white&labelColor=1a1b27" alt="Microservices"/>
+      <br>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=1a1b27" alt="JWT"/>
+      <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white&labelColor=1a1b27" alt="WebSocket"/>
+      <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white&labelColor=1a1b27" alt="AWS S3"/>
+      <br>
+      <img src="https://img.shields.io/badge/Mermaid.js-FF3670?style=flat-square&logo=mermaid&logoColor=white&labelColor=1a1b27" alt="Mermaid.js"/>
+      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1b27" alt="REST API"/>
+      <img src="https://img.shields.io/badge/Java_Mail-007396?style=flat-square&logo=java&logoColor=white&labelColor=1a1b27" alt="Java Mail"/>
       <br><br>
       <p>🏥 <b>Healthcare Appointment System</b> with microservices architecture</p>
       <ul align="left">
-        <li>Spring Boot microservices architecture for scalability</li>
-        <li>JWT authentication & WebSocket for real-time updates</li>
-        <li>Redis caching for enhanced performance</li>
-        <li>Material-UI & TailwindCSS for responsive design</li>
-        <li>Email notification system for appointment alerts</li>
+        <li>Role-based authentication system (Patient, Doctor, Admin) with JWT</li>
+        <li>Doctor verification workflow with document upload and admin review</li>
+        <li>Real-time appointment booking with availability checking</li>
+        <li>Role-specific dashboards with analytics and activity monitoring</li>
+        <li>Secure document storage with AWS S3 and email notifications</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Leo-Stephen/MediSlot">
-          <img src="https://img.shields.io/badge/[ ENTER_DUNGEON → ]-bb86fc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Repo"/>
+          <img src="https://img.shields.io/badge/[ DUNGEON_LOCKED 🔒 ]-bb86fc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Repo"/>
         </a>
         <br><br>
-        <a href="https://medislot-demo.netlify.app">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-bb86fc?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1b27" alt="Live Demo"/>
+        <a href="#">
+          <img src="https://img.shields.io/badge/UNDER_DEVELOPMENT-bb86fc?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1b27" alt="Under Development"/>
         </a>
       </p>
     </td>
     <td align="center" width="50%" bgcolor="#1a1b27">
       <h3>PROJECT <span style="color:#bb86fc">KISAN VISHWA</span></h3>
-      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white&labelColor=1a1b27" alt="Django"/>
-      <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1b27" alt="React"/>
+      <img src="https://img.shields.io/badge/Django_4.2-092E20?style=flat-square&logo=django&logoColor=white&labelColor=1a1b27" alt="Django"/>
+      <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=flat-square&logo=html5&logoColor=white&labelColor=1a1b27" alt="HTML5"/>
+      <img src="https://img.shields.io/badge/CSS3-%231572B6?style=flat-square&logo=css3&logoColor=white&labelColor=1a1b27" alt="CSS3"/>
+      <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=white&labelColor=1a1b27" alt="JavaScript"/>
+      <br>
+      <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white&labelColor=1a1b27" alt="Bootstrap"/>
+      <img src="https://img.shields.io/badge/SQLite-%2307405e?style=flat-square&logo=sqlite&logoColor=white&labelColor=1a1b27" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/Razorpay-0066FF?style=flat-square&logo=razorpay&logoColor=white&labelColor=1a1b27" alt="Razorpay"/>
       <img src="https://img.shields.io/badge/GeminiAI-8E75B2?style=flat-square&logo=google&logoColor=white&labelColor=1a1b27" alt="GeminiAI"/>
       <br><br>
-      <p>🌾 <b>Agricultural E-Commerce Platform</b> connecting farmers and consumers</p>
+      <p>🌾 <b>Agricultural E-Commerce Platform</b> connecting farmers directly with consumers</p>
       <ul align="left">
-        <li>Full-stack Django & React.js architecture</li>
-        <li>GeminiAI chatbot improving support satisfaction by 42%</li>
-        <li>Razorpay payment gateway with 99.8% reliability</li>
-        <li>RESTful APIs with Django REST framework</li>
-        <li>Redis caching reducing page load times by 40%</li>
+        <li>Multi-user authentication system with three distinct roles (Farmers, Customers, Admins)</li>
+        <li>Comprehensive product catalog with categories for agricultural goods</li>
+        <li>AI-powered chatbot using Google's Gemini with role-specific responses</li>
+        <li>Complete order processing with Razorpay payment integration</li>
+        <li>Shopping features including cart, wishlist, and product search/filtering</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Leo-Stephen/KisanVishwa">
-          <img src="https://img.shields.io/badge/[ ENTER_DUNGEON → ]-bb86fc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Repo"/>
+          <img src="https://img.shields.io/badge/[ DUNGEON_LOCKED 🔒 ]-bb86fc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Repo"/>
         </a>
         <br><br>
-        <a href="https://kisanvishwa-demo.netlify.app">
-          <img src="https://img.shields.io/badge/LIVE_DEMO-bb86fc?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1b27" alt="Live Demo"/>
+        <a href="https://agriecom.pythonanywhere.com">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-bb86fc?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27" alt="Live Demo"/>
         </a>
       </p>
     </td>
@@ -268,31 +283,14 @@ def solve_problem(complexity):
   <table>
     <tr>
       <td width="50%">
-        <div style="background-color: #1a1b27; border-radius: 6px; padding: 16px; color: white;">
-          <h3 style="color: #bb86fc; text-align: center;">GitHub Stats</h3>
-          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-            <span>⭐ Total Stars:</span>
-            <span>5</span>
-          </div>
-          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-            <span>📊 Total Commits:</span>
-            <span>113</span>
-          </div>
-          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-            <span>🔀 Total PRs:</span>
-            <span>1</span>
-          </div>
-          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-            <span>🚩 Total Issues:</span>
-            <span>3</span>
-          </div>
-          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-            <span>📅 Contributions (Last Year):</span>
-            <span>2</span>
-          </div>
-          <div style="text-align: center; margin-top: 10px;">
-            <img src="https://img.shields.io/badge/LEVEL_UP!-bb86fc?style=for-the-badge&labelColor=1a1b27" alt="Level Up Badge"/>
-          </div>
+        <div style="background-color: #1a1b27; border-radius: 6px; padding: 16px; color: white; text-align: center;">
+          <h3 style="color: #bb86fc; text-align: center;">CONTRIBUTION ACTIVITY</h3>
+          <a href="https://github.com/Leo-Stephen">
+            <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Stephen&theme=react-dark&bg_color=1a1b27&color=bb86fc&line=bb86fc&point=bb86fc&area=true&area_color=bb86fc&hide_border=true" alt="Leo Stephen's Activity Graph" width="100%" />
+          </a>
+          <p style="font-size: 12px; margin-top: 8px; color: #bb86fc;">
+            Visualizing contribution frequency over time
+          </p>
         </div>
       </td>
       <td width="50%">
@@ -315,13 +313,6 @@ def solve_problem(complexity):
   <p style="color:#bb86fc; font-size:12px;">Optimized metrics display - compact 3-column layout</p>
 </div>
 
-<!-- GitHub Activity Graph -->
-<div align="center">
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Leo-Stephen&custom_title=Leo%20Stephen's%20Contribution%20Graph&bg_color=1a1b27&color=ffffff&line=bb86fc&point=ffffff&area=true&area_color=bb86fc&hide_border=true" width="95%" alt="Activity Graph" />
-  </a>
-</div>
-
 <!-- GitHub Badges -->
 <div align="center">
   <img src="https://img.shields.io/github/stars/Leo-Stephen?style=for-the-badge&logo=github&color=bb86fc&labelColor=1a1b27" alt="GitHub Stars" />
@@ -332,7 +323,7 @@ def solve_problem(complexity):
 
 <!-- Octocat - Fixed to not expand entire row -->
 <div align="center" style="max-width: 200px; margin: 0 auto;">
-  <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160" alt="Octocat" />
+  <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" height="160" alt="Cat GIF" />
 </div>
 
 ---
@@ -370,39 +361,4 @@ def solve_problem(complexity):
      <span style="color: #ff79c6; font-weight: bold;">⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️ START</span>
     </pre>
   </div>
-</div>
-
-## 🔧 TOOLS USED TO CREATE THIS PROFILE
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <ul>
-          <li><b><a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></b> - Comprehensive GitHub metrics</li>
-          <li><b><a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></b> - Customizable GitHub stats</li>
-          <li><b><a href="https://shields.io/">Shields.io</a></b> - Custom dynamic badges</li>
-          <li><b><a href="https://simpleicons.org/">Simple Icons</a></b> - Icons for badges</li>
-          <li><b><a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a></b> - Typing animation</li>
-          <li><b><a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a></b> - Contribution streak stats</li>
-        </ul>
-      </td>
-      <td>
-        <ul>
-          <li><b><a href="https://github.com/PiyushSuthar/github-readme-quotes">GitHub Readme Quotes</a></b> - Developer quotes</li>
-          <li><b><a href="https://github.com/ABSphreak/readme-jokes">GitHub Readme Jokes</a></b> - Random developer jokes</li>
-          <li><b><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">GitHub Activity Graph</a></b> - Contribution activity graph</li>
-          <li><b><a href="https://github.com/kyechan99/capsule-render">Capsule Render</a></b> - Header/footer images</li>
-          <li><b><a href="https://github.com/Platane/snk">Snake Animation</a></b> - GitHub contribution graph animation</li>
-          <li><b><a href="https://github.com/antonkomarev/github-profile-views-counter">GitHub Profile Views Counter</a></b> - Visitor counter</li>
-        </ul>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- You can preview this README using these tools: -->
-<div align="center">
-  <a href="https://markdownlivepreview.com/"><b>Markdown Live Preview</b></a> - Paste your README to preview<br>
-  <a href="https://code.visualstudio.com/docs/languages/markdown"><b>VS Code with Markdown Preview</b></a> - Preview in VS Code
 </div>
