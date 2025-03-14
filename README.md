@@ -11,7 +11,8 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Leo-Stephen/Leo-Stephen/output/github-contribution-grid-snake.svg" width="100%" alt="Snake animation" />
+  <p style="color:#bb86fc; font-size:12px;">🐍 Watch the snake eat my contribution graph</p>
 </div>
 
 <div align="center">
@@ -267,9 +268,32 @@ def solve_problem(complexity):
   <table>
     <tr>
       <td width="50%">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Leo-Stephen&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&title_color=bb86fc&text_color=ffffff&icon_color=bb86fc&border_color=1a1b27&bg_color=1a1b27&hide_border=true&card_width=450" alt="GitHub Stats" />
-        </a>
+        <div style="background-color: #1a1b27; border-radius: 6px; padding: 16px; color: white;">
+          <h3 style="color: #bb86fc; text-align: center;">GitHub Stats</h3>
+          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+            <span>⭐ Total Stars:</span>
+            <span>5</span>
+          </div>
+          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+            <span>📊 Total Commits:</span>
+            <span>113</span>
+          </div>
+          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+            <span>🔀 Total PRs:</span>
+            <span>1</span>
+          </div>
+          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+            <span>🚩 Total Issues:</span>
+            <span>3</span>
+          </div>
+          <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
+            <span>📅 Contributions (Last Year):</span>
+            <span>2</span>
+          </div>
+          <div style="text-align: center; margin-top: 10px;">
+            <img src="https://img.shields.io/badge/LEVEL_UP!-bb86fc?style=for-the-badge&labelColor=1a1b27" alt="Level Up Badge"/>
+          </div>
+        </div>
       </td>
       <td width="50%">
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -280,54 +304,15 @@ def solve_problem(complexity):
   </table>
 </div>
 
-<!-- GitHub Stats Cards - Row 2 -->
+<!-- GitHub Metrics - Comprehensive Stats -->
 <div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Leo-Stephen&layout=compact&langs_count=8&count_private=true&theme=tokyonight&title_color=bb86fc&text_color=ffffff&icon_color=bb86fc&border_color=1a1b27&bg_color=1a1b27&hide_border=true&card_width=450" alt="Top Languages" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Leo-Stephen&theme=tokyonight" alt="Most Used Languages" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- Additional Stats Row -->
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Leo-Stephen&theme=tokyonight" alt="Stats Summary" />
-        </a>
-      </td>
-      <td width="50%">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Leo-Stephen&theme=tokyonight&utcOffset=5.30" alt="Coding Activity" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- GitHub Profile Details -->
-<div align="center">
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Leo-Stephen&theme=tokyonight" width="100%" alt="Profile Details" />
-  </a>
-</div>
-
-<!-- GitHub Profile Trophy -->
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Leo-Stephen&theme=nord&no-frame=true&margin-w=15&margin-h=15&column=7&row=1&title_color=bb86fc&icon_color=bb86fc&text_color=ffffff&bg_color=1a1b27" alt="GitHub Trophies" />
-  </a>
+  <h2>
+    <img src="https://img.shields.io/badge/-📊-1a1b27?style=flat-square" alt="stats" />
+    <span style="color:#bb86fc; background-color:#1a1b27; padding:0 10px; border-radius:5px;">DETAILED METRICS</span>
+    <img src="https://img.shields.io/badge/-📊-1a1b27?style=flat-square" alt="stats" />
+  </h2>
+  <img src="github-metrics.svg" alt="Metrics" width="90%" />
+  <p style="color:#bb86fc; font-size:12px;">Optimized metrics display - compact 3-column layout</p>
 </div>
 
 <!-- GitHub Activity Graph -->
@@ -345,62 +330,46 @@ def solve_problem(complexity):
   <img src="https://komarev.com/ghpvc/?username=Leo-Stephen&color=bb86fc&style=for-the-badge&label=VISITORS" alt="Profile Views" />
 </div>
 
-<!-- GitHub Skyline -->
-<div align="center">
-  <a href="https://skyline.github.com/Leo-Stephen/2023" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub_Skyline-View_3D_Contribution_Graph-bb86fc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Skyline" />
-  </a>
-</div>
-
-<!-- Octocat -->
-<div align="center">
+<!-- Octocat - Fixed to not expand entire row -->
+<div align="center" style="max-width: 200px; margin: 0 auto;">
   <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160" alt="Octocat" />
 </div>
 
 ---
 
+<!-- Improved Game Over ASCII Art with color -->
 <div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
-</div>
-
-<!-- Random Dev Joke -->
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true&bgColor=1a1b27&qColor=bb86fc&aColor=bb86fc" alt="Jokes Card" />
-</div>
-
-<div align="center">
-
-```
+  <div style="background-color: #1a1b27; border-radius: 10px; padding: 20px; max-width: 800px; margin: 0 auto; border: 2px solid #bb86fc;">
+    <pre style="color: #bb86fc; font-family: 'Courier New', monospace; text-align: center; margin: 0;">
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   ██████╗  █████╗ ███╗   ███╗███████╗     ██████╗ ██╗   ██╗███████╗██████╗  ║
-║  ██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔═══██╗██║   ██║██╔════╝██╔══██╗ ║
-║  ██║  ███╗███████║██╔████╔██║█████╗      ██║   ██║██║   ██║█████╗  ██████╔╝ ║
-║  ██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗ ║
-║  ╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ╚██████╔╝ ╚████╔╝ ███████╗██║  ██║ ║
-║   ╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝     ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝ ║
+║   <span style="color: #ff79c6;">██████╗  █████╗ ███╗   ███╗███████╗     ██████╗ ██╗   ██╗███████╗██████╗</span>  ║
+║  <span style="color: #ff79c6;">██╔════╝ ██╔══██╗████╗ ████║██╔════╝    ██╔═══██╗██║   ██║██╔════╝██╔══██╗</span> ║
+║  <span style="color: #ff79c6;">██║  ███╗███████║██╔████╔██║█████╗      ██║   ██║██║   ██║█████╗  ██████╔╝</span> ║
+║  <span style="color: #ff79c6;">██║   ██║██╔══██║██║╚██╔╝██║██╔══╝      ██║   ██║╚██╗ ██╔╝██╔══╝  ██╔══██╗</span> ║
+║  <span style="color: #ff79c6;">╚██████╔╝██║  ██║██║ ╚═╝ ██║███████╗    ╚██████╔╝ ╚████╔╝ ███████╗██║  ██║</span> ║
+║   <span style="color: #ff79c6;">╚═════╝ ╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝     ╚═════╝   ╚═══╝  ╚══════╝╚═╝  ╚═╝</span> ║
 ║                                                                              ║
-║                          [ PRESS CONTINUE TO PLAY ]                          ║
+║                     <span style="color: #50fa7b; font-weight: bold;">[ PRESS CONTINUE TO PLAY ]</span>                     ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
+    </pre>
+  </div>
 </div>
 
-<!-- Inspired by Retro category - Retro footer -->
+<!-- Improved Retro Footer -->
 <div align="center">
-  <pre>
-  <code>
-  ┌───────────────────────────────────────────────┐
-  │                                               │
-  │   Thanks for visiting my GitHub profile!      │
-  │   Let's connect and build something awesome.  │
-  │                                               │
-  └───────────────────────────────────────────────┘
-         ⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️ START
-  </code>
-  </pre>
+  <div style="background-color: #1a1b27; border-radius: 10px; padding: 15px; max-width: 600px; margin: 20px auto; border: 2px solid #bb86fc;">
+    <pre style="color: #8be9fd; font-family: 'Courier New', monospace; text-align: center; margin: 0;">
+┌───────────────────────────────────────────────┐
+│                                               │
+│   <span style="color: #f1fa8c;">Thanks for visiting my GitHub profile!</span>      │
+│   <span style="color: #f1fa8c;">Let's connect and build something awesome.</span>  │
+│                                               │
+└───────────────────────────────────────────────┘
+     <span style="color: #ff79c6; font-weight: bold;">⬆️ ⬆️ ⬇️ ⬇️ ⬅️ ➡️ ⬅️ ➡️ 🅱️ 🅰️ START</span>
+    </pre>
+  </div>
 </div>
 
 ## 🔧 TOOLS USED TO CREATE THIS PROFILE
@@ -411,12 +380,10 @@ def solve_problem(complexity):
       <td>
         <ul>
           <li><b><a href="https://github.com/lowlighter/metrics">GitHub Metrics</a></b> - Comprehensive GitHub metrics</li>
-          <li><b><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">GitHub Profile Summary Cards</a></b> - Profile summary visualization</li>
           <li><b><a href="https://github.com/anuraghazra/github-readme-stats">GitHub Readme Stats</a></b> - Customizable GitHub stats</li>
           <li><b><a href="https://shields.io/">Shields.io</a></b> - Custom dynamic badges</li>
           <li><b><a href="https://simpleicons.org/">Simple Icons</a></b> - Icons for badges</li>
           <li><b><a href="https://github.com/DenverCoder1/readme-typing-svg">Readme Typing SVG</a></b> - Typing animation</li>
-          <li><b><a href="https://github.com/ryo-ma/github-profile-trophy">GitHub Profile Trophy</a></b> - GitHub achievement showcase</li>
           <li><b><a href="https://github.com/DenverCoder1/github-readme-streak-stats">GitHub Readme Streak Stats</a></b> - Contribution streak stats</li>
         </ul>
       </td>
@@ -424,12 +391,10 @@ def solve_problem(complexity):
         <ul>
           <li><b><a href="https://github.com/PiyushSuthar/github-readme-quotes">GitHub Readme Quotes</a></b> - Developer quotes</li>
           <li><b><a href="https://github.com/ABSphreak/readme-jokes">GitHub Readme Jokes</a></b> - Random developer jokes</li>
-          <li><b><a href="https://wakatime.com/">WakaTime</a></b> - Coding activity tracking</li>
           <li><b><a href="https://github.com/Ashutosh00710/github-readme-activity-graph">GitHub Activity Graph</a></b> - Contribution activity graph</li>
           <li><b><a href="https://github.com/kyechan99/capsule-render">Capsule Render</a></b> - Header/footer images</li>
           <li><b><a href="https://github.com/Platane/snk">Snake Animation</a></b> - GitHub contribution graph animation</li>
           <li><b><a href="https://github.com/antonkomarev/github-profile-views-counter">GitHub Profile Views Counter</a></b> - Visitor counter</li>
-          <li><b><a href="https://forthebadge.com/">For The Badge</a></b> - Fun custom badges</li>
         </ul>
       </td>
     </tr>
