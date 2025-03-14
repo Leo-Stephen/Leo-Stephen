@@ -13,12 +13,18 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
-      - uses: Platane/snk@master
-        id: snake-gif
+      # Generate a snake animation using a specific version of the action
+      - name: Generate Snake
+        uses: Platane/snk@v3
         with:
           github_user_name: Leo-Stephen
-          svg_out_path: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      # Push the generated files to the output branch
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
