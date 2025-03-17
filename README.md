@@ -171,8 +171,8 @@ def solve_problem(complexity):
         <li>Role-based authentication system (Patient, Doctor, Admin) with JWT</li>
         <li>Doctor verification workflow with document upload and admin review</li>
         <li>Real-time appointment booking with availability checking</li>
-        <li>Role-specific dashboards with analytics and activity monitoring</li>
-        <li>Secure document storage with AWS S3 and email notifications</li>
+        <li>Email notification system for appointment confirmations and reminders</li>
+        <li>Responsive UI with React.js, Material-UI and TailwindCSS</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Leo-Stephen/MediSlot">
