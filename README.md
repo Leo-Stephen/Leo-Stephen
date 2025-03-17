@@ -241,10 +241,11 @@ def solve_problem(complexity):
       <p>🏆 <b>Malicious Mobile Application Detection Solution</b></p>
       <ul align="left">
         <li>Led team OSS IRIS in the national-level hackathon</li>
-        <li>Developed an AI-powered detection system with 94% accuracy</li>
+        <li>Developed a real-time network traffic monitoring system using OSINT feeds</li>
         <li>Recognized by the Ministry of Power, Government of India</li>
-        <li>Implemented machine learning algorithms to identify malicious patterns</li>
-        <li>Created a user-friendly interface for real-time threat detection</li>
+        <li>Implemented IP and URL analysis for detecting malicious connections</li>
+        <li>Created automated alert system with email and push notifications</li>
+        <li>Built features for packet dropping, whitelist management, and APK analysis</li>
       </ul>
       <p align="center">
         <img src="https://img.shields.io/badge/ACHIEVEMENT_UNLOCKED-bb86fc?style=for-the-badge&labelColor=1a1b27" alt="Achievement Unlocked"/>
