@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://www.linkedin.com/in/leo-stephen-maduri/"><img src="https://img.shields.io/badge/CONNECT-Leo_Stephen_Maduri-bb86fc?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1b27" alt="LinkedIn" /></a>
   <a href="mailto:leostephen.maduri@gmail.com"><img src="https://img.shields.io/badge/SEND_MESSAGE-leostephen.maduri%40gmail.com-bb86fc?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1b27" alt="Email" /></a>
-  <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-bb86fc?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a>
+  <!-- <a href="https://your-portfolio-url.com"><img src="https://img.shields.io/badge/PORTFOLIO-Visit_Site-bb86fc?style=for-the-badge&logo=firefox&logoColor=white&labelColor=1a1b27" alt="Portfolio" /></a> -->
 </div>
 
 <div align="center">
@@ -163,9 +163,6 @@ def solve_problem(complexity):
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27" alt="MySQL"/>
       <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=1a1b27" alt="JWT"/>
       <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white&labelColor=1a1b27" alt="WebSocket"/>
-      <img src="https://img.shields.io/badge/AWS_S3-569A31?style=flat-square&logo=amazon-s3&logoColor=white&labelColor=1a1b27" alt="AWS S3"/>
-      <br>
-      <img src="https://img.shields.io/badge/Mermaid.js-FF3670?style=flat-square&logo=mermaid&logoColor=white&labelColor=1a1b27" alt="Mermaid.js"/>
       <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1b27" alt="REST API"/>
       <img src="https://img.shields.io/badge/Java_Mail-007396?style=flat-square&logo=java&logoColor=white&labelColor=1a1b27" alt="Java Mail"/>
       <br><br>
@@ -310,7 +307,6 @@ def solve_problem(complexity):
     <img src="https://img.shields.io/badge/-📊-1a1b27?style=flat-square" alt="stats" />
   </h2>
   <img src="github-metrics.svg" alt="Metrics" width="90%" />
-  <p style="color:#bb86fc; font-size:12px;">Optimized metrics display - compact 3-column layout</p>
 </div>
 
 <!-- GitHub Badges -->
