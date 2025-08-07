@@ -215,6 +215,36 @@ def solve_problem(complexity):
       </p>
     </td>
   </tr>
+  <tr>
+    <td align="center" width="50%" bgcolor="#1a1b27">
+      <h3>PROJECT <span style="color:#bb86fc">EVENT BASED SHOPPING PLANNER</span></h3>
+      <img src="https://img.shields.io/badge/React_19.1.0-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1b27" alt="React"/>
+      <img src="https://img.shields.io/badge/Vite_6.3.5-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=1a1b27" alt="Vite"/>
+      <img src="https://img.shields.io/badge/TailwindCSS_3.4.17-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=1a1b27" alt="TailwindCSS"/>
+      <br>
+      <img src="https://img.shields.io/badge/Local_AI_Processing-FF6C37?style=flat-square&logo=ai&logoColor=white&labelColor=1a1b27" alt="Local AI"/>
+      <img src="https://img.shields.io/badge/Semantic_Analysis-8B5CF6?style=flat-square&logo=ai&logoColor=white&labelColor=1a1b27" alt="Semantic AI"/>
+      <img src="https://img.shields.io/badge/Glass_Morphism-3B82F6?style=flat-square&logo=css3&logoColor=white&labelColor=1a1b27" alt="Glass Morphism"/>
+      <br><br>
+      <p>🛒 <b>AI-Powered Shopping Intelligence Platform</b> with sophisticated local AI processing</p>
+      <ul align="left">
+        <li>Multi-strategy AI architecture with 100% local processing capability</li>
+        <li>Advanced semantic analysis with 384-dimensional vector embeddings</li>
+        <li>Enterprise-grade product curation with intelligent category grouping</li>
+        <li>Premium glass morphism UI with responsive design and dark mode</li>
+        <li>Sub-900ms search performance with sophisticated caching and optimization</li>
+      </ul>
+      <p align="center">
+        <a href="https://github.com/Leo-Stephen/Sparkathon_EventBasedShoppingPlanner">
+          <img src="https://img.shields.io/badge/[ DUNGEON_LOCKED 🔒 ]-bb86fc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Repo"/>
+        </a>
+        <br><br>
+        <a href="#">
+          <img src="https://img.shields.io/badge/UNDER_DEVELOPMENT-bb86fc?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1b27" alt="Under Development"/>
+        </a>
+      </p>
+    </td>
+  </tr>
 </table>
 
 <!-- Inspired by Fancy Fonts category -->
