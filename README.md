@@ -69,6 +69,18 @@
 
 ---
 
+<!-- 🏆 GitHub Trophies -->
+<div align="center">
+  <h2>
+    <img src="https://img.shields.io/badge/-🏆-1a1b27?style=flat-square" alt="trophy" />
+    <span style="color:#bb86fc; background-color:#1a1b27; padding:0 10px; border-radius:5px;">TROPHY CABINET</span>
+    <img src="https://img.shields.io/badge/-🏆-1a1b27?style=flat-square" alt="trophy" />
+  </h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=Leo-Stephen&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+</div>
+
+---
+
 <div align="center">
   <h2>
     <img src="https://img.shields.io/badge/-⚔️-1a1b27?style=flat-square" alt="sword" />
@@ -77,23 +89,30 @@
   </h2>
 </div>
 
+<!-- Languages -->
 <div align="center">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=1a1b27" alt="Java" />
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=white&labelColor=1a1b27" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white&labelColor=1a1b27" alt="Python" />
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white&labelColor=1a1b27" alt="C" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white&labelColor=1a1b27" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white&labelColor=1a1b27" alt="CSS3" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white&labelColor=1a1b27" alt="Spring" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white&labelColor=1a1b27" alt="Django" />
-  <img src="https://img.shields.io/badge/bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white&labelColor=1a1b27" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white&labelColor=1a1b27" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white&labelColor=1a1b27" alt="MySQL" />
-  <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=1a1b27" alt="SQLite" />
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&labelColor=1a1b27" alt="Git" />
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white&labelColor=1a1b27" alt="JWT" />
-  <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=1a1b27" alt="REST API" />
-  <img src="https://img.shields.io/badge/Microservices-FF6C37?style=for-the-badge&logo=fastify&logoColor=white&labelColor=1a1b27" alt="Microservices" />
+  <h4>⚡ Languages</h4>
+  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css&theme=dark" alt="Languages" />
+</div>
+
+<!-- Frameworks & Libraries -->
+<div align="center">
+  <h4>🛠️ Frameworks & Libraries</h4>
+  <img src="https://skillicons.dev/icons?i=spring,react,vite,django,bootstrap,tailwind,materialui&theme=dark" alt="Frameworks" />
+</div>
+
+<!-- Databases & Tools -->
+<div align="center">
+  <h4>🗄️ Databases & Tools</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vercel,postman&theme=dark" alt="Databases & Tools" />
+</div>
+
+<!-- ⏱️ WakaTime Coding Activity -->
+<div align="center">
+  <h4>⏱️ Weekly Coding Activity</h4>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoStephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&text_color=ffffff" alt="WakaTime Stats" />
+  <br>
+  <sub>📊 Powered by <a href="https://wakatime.com">WakaTime</a> - <a href="https://wakatime.com/plugins">Install the plugin</a> to track your coding activity!</sub>
 </div>
 
 <!-- Inspired by Code Mode category - Code snippet -->
