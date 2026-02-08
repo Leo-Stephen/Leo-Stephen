@@ -76,7 +76,9 @@
     <span style="color:#bb86fc; background-color:#1a1b27; padding:0 10px; border-radius:5px;">TROPHY CABINET</span>
     <img src="https://img.shields.io/badge/-🏆-1a1b27?style=flat-square" alt="trophy" />
   </h2>
-  <img src="https://github-profile-trophy.vercel.app/?username=Leo-Stephen&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Leo-Stephen&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+  </a>
 </div>
 
 ---
@@ -107,13 +109,7 @@
   <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vercel,postman&theme=dark" alt="Databases & Tools" />
 </div>
 
-<!-- ⏱️ WakaTime Coding Activity -->
-<div align="center">
-  <h4>⏱️ Weekly Coding Activity</h4>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Leo-Stephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&text_color=ffffff" alt="WakaTime Stats" />
-  <br>
-  <sub>📊 Powered by <a href="https://wakatime.com">WakaTime</a> - <a href="https://wakatime.com/plugins">Install the plugin</a> to track your coding activity!</sub>
-</div>
+<!-- WakaTime section removed - add back after setting up wakatime.com account -->
 
 <!-- Inspired by Code Mode category - Code snippet -->
 <details>
