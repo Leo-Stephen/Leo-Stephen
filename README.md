@@ -94,19 +94,37 @@
 <!-- Languages -->
 <div align="center">
   <h4>⚡ Languages</h4>
-  <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css&theme=dark" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,js,py,c,cpp,ts,html,css&theme=dark" alt="Languages" />
 </div>
 
 <!-- Frameworks & Libraries -->
 <div align="center">
   <h4>🛠️ Frameworks & Libraries</h4>
-  <img src="https://skillicons.dev/icons?i=spring,react,vite,django,bootstrap,tailwind,materialui&theme=dark" alt="Frameworks" />
+  <img src="https://skillicons.dev/icons?i=spring,react,nodejs,express,django,bootstrap,tailwind,materialui,vite&theme=dark" alt="Frameworks" />
 </div>
 
-<!-- Databases & Tools -->
+<!-- AI & Machine Learning -->
 <div align="center">
-  <h4>🗄️ Databases & Tools</h4>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vercel,postman&theme=dark" alt="Databases & Tools" />
+  <h4>🤖 AI & Machine Learning</h4>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&theme=dark" alt="AI/ML" />
+</div>
+
+<!-- Databases & Backend -->
+<div align="center">
+  <h4>🗄️ Databases & Backend</h4>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,sqlite,hibernate,kafka&theme=dark" alt="Databases" />
+</div>
+
+<!-- Cloud & DevOps -->
+<div align="center">
+  <h4>☁️ Cloud & DevOps</h4>
+  <img src="https://skillicons.dev/icons?i=aws,docker,githubactions,jenkins,kubernetes&theme=dark" alt="Cloud & DevOps" />
+</div>
+
+<!-- Tools -->
+<div align="center">
+  <h4>🔧 Tools</h4>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,postman,maven,vscode,figma&theme=dark" alt="Tools" />
 </div>
 
 <!-- WakaTime section removed - add back after setting up wakatime.com account -->
