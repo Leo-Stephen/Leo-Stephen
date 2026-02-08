@@ -11,7 +11,11 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Leo-Stephen/Leo-Stephen/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Leo-Stephen/Leo-Stephen/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Leo-Stephen/Leo-Stephen/output/github-contribution-grid-snake.svg" />
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Leo-Stephen/Leo-Stephen/output/github-contribution-grid-snake-dark.svg" width="100%" />
+  </picture>
   <p style="color:#bb86fc; font-size:12px;">🐍 Watch the snake eat my contribution graph</p>
 </div>
 
