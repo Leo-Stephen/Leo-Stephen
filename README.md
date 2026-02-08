@@ -77,7 +77,7 @@
     <img src="https://img.shields.io/badge/-🏆-1a1b27?style=flat-square" alt="trophy" />
   </h2>
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Leo-Stephen&theme=onestar&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Leo-Stephen&theme=discord&no-frame=true&no-bg=true&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" width="100%" />
   </a>
 </div>
 
