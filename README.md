@@ -110,7 +110,7 @@
 <!-- ⏱️ WakaTime Coding Activity -->
 <div align="center">
   <h4>⏱️ Weekly Coding Activity</h4>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=LeoStephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&text_color=ffffff" alt="WakaTime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Leo-Stephen&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=bb86fc&text_color=ffffff" alt="WakaTime Stats" />
   <br>
   <sub>📊 Powered by <a href="https://wakatime.com">WakaTime</a> - <a href="https://wakatime.com/plugins">Install the plugin</a> to track your coding activity!</sub>
 </div>
