@@ -193,23 +193,24 @@ def solve_problem(complexity):
   <tr>
     <td align="center" width="50%" bgcolor="#1a1b27">
       <h3>PROJECT <span style="color:#bb86fc">MEDISLOT</span></h3>
-      <img src="https://img.shields.io/badge/React_Vite-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1b27" alt="React"/>
-      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white&labelColor=1a1b27" alt="Spring Boot"/>
-      <img src="https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=fastify&logoColor=white&labelColor=1a1b27" alt="Microservices"/>
+      <img src="https://img.shields.io/badge/Java_21-007396?style=flat-square&logo=java&logoColor=white&labelColor=1a1b27" alt="Java 21"/>
+      <img src="https://img.shields.io/badge/Spring_Boot_3.2-6DB33F?style=flat-square&logo=spring-boot&logoColor=white&labelColor=1a1b27" alt="Spring Boot"/>
+      <img src="https://img.shields.io/badge/React_18-61DAFB?style=flat-square&logo=react&logoColor=white&labelColor=1a1b27" alt="React 18"/>
+      <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=1a1b27" alt="Vite"/>
       <br>
-      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=1a1b27" alt="MySQL"/>
-      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=1a1b27" alt="JWT"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=1a1b27" alt="Docker"/>
+      <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white&labelColor=1a1b27" alt="Tailwind"/>
       <img src="https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white&labelColor=1a1b27" alt="WebSocket"/>
-      <img src="https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white&labelColor=1a1b27" alt="REST API"/>
-      <img src="https://img.shields.io/badge/Java_Mail-007396?style=flat-square&logo=java&logoColor=white&labelColor=1a1b27" alt="Java Mail"/>
+      <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=json-web-tokens&logoColor=white&labelColor=1a1b27" alt="JWT"/>
       <br><br>
-      <p>🏥 <b>Healthcare Appointment System</b> with microservices architecture</p>
+      <p>🏥 <b>Healthcare Appointment System</b> with highly-available monolithic architecture</p>
       <ul align="left">
-        <li>Role-based authentication system (Patient, Doctor, Admin) with JWT</li>
-        <li>Doctor verification workflow with document upload and admin review</li>
-        <li>Real-time appointment booking with availability checking</li>
-        <li>Email notification system for appointment confirmations and reminders</li>
-        <li>Responsive UI with React.js, Material-UI and TailwindCSS</li>
+        <li>Secure JWT authentication with granular Spring Security RBAC and stateless session policies.</li>
+        <li>Orchestrated Medical Record framework and Admin-driven Doctor verification workflow.</li>
+        <li>Integrated Spring WebSockets for immediate cross-client push notifications.</li>
+        <li>Implemented React debouncing for medication lookups and leveraged React Query for data caching.</li>
+        <li>Clean, accessible UI via Vite, Tailwind CSS, Framer Motion, and Radix UI.</li>
+        <li>100% Dockerized orchestration (Backend, Frontend, MySQL) providing an isolated environment.</li>
       </ul>
       <p align="center">
         <a href="https://github.com/Leo-Stephen/MediSlot">
