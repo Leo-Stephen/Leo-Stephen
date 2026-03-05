@@ -216,8 +216,8 @@ def solve_problem(complexity):
           <img src="https://img.shields.io/badge/[ DUNGEON_LOCKED 🔒 ]-bb86fc?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b27" alt="GitHub Repo"/>
         </a>
         <br><br>
-        <a href="#">
-          <img src="https://img.shields.io/badge/UNDER_DEVELOPMENT-bb86fc?style=for-the-badge&logo=netlify&logoColor=white&labelColor=1a1b27" alt="Under Development"/>
+        <a href="https://medislot-ebon.vercel.app/">
+          <img src="https://img.shields.io/badge/LIVE_DEMO-bb86fc?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1a1b27" alt="Live Demo"/>
         </a>
       </p>
     </td>
